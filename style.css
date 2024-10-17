@@ -45,6 +45,10 @@ nav ul{
 .item-5, .item-6 { 
     flex: auto;
 }
+.element {
+    padding-bottom: 10px; /* Adds space inside the element */
+    margin-bottom: 10px; 
+}
 
 @media only screen 
     and (max-device-width: 500px){
