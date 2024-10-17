@@ -31,6 +31,9 @@ nav ul{
 .item-1 {
     min-height: 50px; 
     flex: 1;
+    
+}
+.item-1 .fenxiao {
     padding-bottom: 10px; /* Adds space inside the element */
     margin-bottom: 10px; 
 }
