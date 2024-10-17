@@ -31,6 +31,8 @@ nav ul{
 .item-1 {
     min-height: 50px; 
     flex: 1;
+    padding-bottom: 10px; /* Adds space inside the element */
+    margin-bottom: 10px; 
 }
 .item-2 {
     min-height: 100px;
@@ -44,10 +46,6 @@ nav ul{
 }
 .item-5, .item-6 { 
     flex: auto;
-}
-.element {
-    padding-bottom: 10px; /* Adds space inside the element */
-    margin-bottom: 10px; 
 }
 
 @media only screen 
